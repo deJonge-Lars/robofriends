@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Quirky Robot Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Quirky Robot Regular'), url('QuirkyRobot.woff') format('woff');
+    }
+
+
+h1 {
+    font-family: 'Quirky Robot Regular';
+    font-size: 5em !important;
+    color:rgb(255, 255, 255);
+}
+
+::placeholder {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.oke {
+    margin-bottom: 50px;
+}
