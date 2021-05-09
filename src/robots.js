@@ -37,9 +37,9 @@ export const robots = [
   },
   {
     id: 7,
-    name: 'Mrs. Veronika Norton',
-    username: 'Veronika',
-    email: 'V_Spider@chez.info'
+    name: "Mr. Marouane Lorton",
+    username: "Marouane",
+    email: "M_Spider@chez.info",
   },
   {
     id: 8,
